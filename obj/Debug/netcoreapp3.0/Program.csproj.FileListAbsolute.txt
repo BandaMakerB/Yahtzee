@@ -1,0 +1,3 @@
+C:\Users\amoli\Documents\BME121\ProgrammingAssignments\pa2\obj\Debug\netcoreapp3.0\Program.csprojAssemblyReference.cache
+C:\Users\amoli\Documents\BME121\ProgrammingAssignments\pa2\obj\Debug\netcoreapp3.0\Program.AssemblyInfoInputs.cache
+C:\Users\amoli\Documents\BME121\ProgrammingAssignments\pa2\obj\Debug\netcoreapp3.0\Program.AssemblyInfo.cs
